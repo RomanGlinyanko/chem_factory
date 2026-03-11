@@ -2,3 +2,5 @@ env/
 .env
 utils/
 db/tools/
+back/descr.txt
+**/__pycache__/

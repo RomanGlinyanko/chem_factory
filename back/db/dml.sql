@@ -1,0 +1,1 @@
+insert into mat (name) values ('Гидроксид серы');
